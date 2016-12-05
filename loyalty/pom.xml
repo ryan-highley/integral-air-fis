@@ -5,4 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Integral Air :: FIS :: Loyalty Services</name>
+  <modules>
+    <module>passenger-account</module>
+  </modules>
 </project>
